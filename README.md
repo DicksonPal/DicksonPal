@@ -6,8 +6,7 @@ Formerly a "Kapwa", now a passionate developer dedicated to building impactful w
 
 ## 🚀 Projects I'm Proud Of
 
-- [Metromart](https://www.metromart.com/)  
-  Helped build the client app, making grocery shopping online seamless with Next.js and a user-first approach.
+- [Metromart](https://www.metromart.com/) Helped build the client app, making grocery shopping online seamless with Next.js and a user-first approach.
 
 ---
 
