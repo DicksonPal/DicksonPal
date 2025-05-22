@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Dickson Palomeras!
 
-<!--
-**DicksonPal/DicksonPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formerly a "Kapwa", now a passionate developer dedicated to building impactful web applications. My journey led me to contribute at **Metromart**, where I played a key role in developing their client app using the latest Next.js technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects I'm Proud Of
+
+- [Metromart](https://www.metromart.com/)  
+  Helped build the client app, making grocery shopping online seamless with Next.js and a user-first approach.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Next.js, JavaScript (ES6+)
+
+---
+
+## 🌱 About Me
+
+- 🚀 Transitioned from a non-tech role ("Kapwa") to developer
+- 💡 Always learning, always building
+- 🎬 Enjoys movies and FPS games
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 [Portfolio](https://dpalomeras.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dickson-palomeras-50685395)
+
+---
+
+> “From Kapwa to code—building solutions that matter.”
