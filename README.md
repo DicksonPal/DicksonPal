@@ -26,7 +26,7 @@ Formerly a "Kapwa", now a passionate developer dedicated to building impactful w
 
 ## 🌐 Connect With Me
 
-- 🌍 [Portfolio](https://dpalomeras.vercel.app)
+- 🌍 [Portfolio](https://www.dpalomeras.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dickson-palomeras-50685395)
 
 ---
